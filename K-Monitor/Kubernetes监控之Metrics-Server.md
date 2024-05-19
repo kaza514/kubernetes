@@ -1,6 +1,6 @@
 # Kubernetes监控之Metrics-Server
 
-> 使用Helm部署K8S资源指标获取工具: metrics-server
+> HELM: metrics-server
 
 项目地址: <https://github.com/kubernetes-sigs/metrics-server>
 
@@ -12,7 +12,7 @@ error: Metrics API not available
 error: Metrics API not available
 ```
 
-获取metrics-server-amd64镜像
+metrics-server-amd64
 
 ```bash
 # 在集群所有节点都需要执行
